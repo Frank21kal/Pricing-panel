@@ -1,4 +1,4 @@
-# Pricing-panel
+# Pricing panel (SaaS UI)
 A modern and responsive SaaS pricing panel.
 
 #  Pricing Panel (SaaS UI)
@@ -31,6 +31,7 @@ pricing-panel/
 
 ##  Live Demo
 
+https://Frank21kal.github.io/pricing-panel/
 
 ##  Screenshot
 
