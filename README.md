@@ -1,10 +1,6 @@
 # Pricing panel (SaaS UI)
 A modern and responsive SaaS pricing panel.
 
-#  Pricing Panel (SaaS UI)
-
-A modern and responsive SaaS pricing panel built using HTML and CSS.
-
 ##  Features
 
 -  Fully responsive design (mobile + desktop)
@@ -31,7 +27,7 @@ pricing-panel/
 
 ##  Live Demo
 
-https://Frank21kal.github.io/pricing-panel/
+https://frank21kal.github.io/Pricing-panel/
 
 ##  Screenshot
 
