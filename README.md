@@ -13,12 +13,14 @@ A modern and responsive SaaS pricing panel.
 
 - HTML5
 - CSS3 (Flexbox + Media Queries)
+- Javascript
 
+  
 ##  Project Structure
 
 pricing-panel/
-│── price/
-    |__ index.html
+│── index.html
+|── script.js   
 │── styles/
 │   ├── main.css
 │   ├── header.css
